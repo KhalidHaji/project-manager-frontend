@@ -1,3 +1,25 @@
+
+### 1. Project Overview
+
+This project is a web-based application built using Laravel for the backend and React for the frontend. It provides a seamless user experience by integrating a MySQL database for data management. The project aims to deliver a robust and scalable solution for handling user interactions, data processing, and API integrations. It has backend API and a frontend interface for managing a collection
+of projects for applications. The backend API will allow creating, updating, retrieving, and
+deleting projects. The data should be stored in a MySQL database. The frontend, built with
+React, will interact with the backend API to display and submit project data
+
+Key Features:
+
+RESTful API built with Laravel
+
+Interactive frontend using React
+
+MySQL database for structured data management
+
+Secure authentication and authorization mechanisms
+
+Responsive and modern UI design
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+"# project-manager-backend" 
+
 ### Prerequisites (Before You Start)
 Before installing the project, ensure you have the following installed on your system:
 
